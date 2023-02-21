@@ -3,5 +3,5 @@
 using namespace std;
 
 int main(){
-    cout<< "Este es el codigo que hizo pique" <<endl;
+    cout<< "Este es el codigo que hizo shakira" <<endl;
 }
